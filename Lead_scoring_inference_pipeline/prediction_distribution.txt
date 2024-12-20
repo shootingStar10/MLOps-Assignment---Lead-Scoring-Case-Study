@@ -1,0 +1,4 @@
+Zeros % = 40.53, Ones % = 59.47
+Zeros % = 40.53, Ones % = 59.47
+Zeros % = 40.53, Ones % = 59.47
+Zeros % = 50.64, Ones % = 49.36
